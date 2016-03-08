@@ -1,0 +1,9 @@
+{
+  "name": "magestore/sociallogin",
+  "description": "N/A",
+  "require": {
+
+  },
+  "type": "library",
+  "version": "1.0.0"
+}
